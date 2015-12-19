@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MapGen", "MapGen\MapGen.vbproj", "{A75B5051-414C-4884-B3A2-80B06CA26AB1}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs21
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MapGen\\MapGen.vbproj
+		SccProjectName1 = MapGen
+		SccLocalPath1 = MapGen
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75B5051-414C-4884-B3A2-80B06CA26AB1}.Debug|x86.ActiveCfg = Debug|x86
+		{A75B5051-414C-4884-B3A2-80B06CA26AB1}.Debug|x86.Build.0 = Debug|x86
+		{A75B5051-414C-4884-B3A2-80B06CA26AB1}.Release|x86.ActiveCfg = Release|x86
+		{A75B5051-414C-4884-B3A2-80B06CA26AB1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
